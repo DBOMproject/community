@@ -8,7 +8,7 @@ The DBoM community abides by the [Linux Foundation Code of Conduct](https://www.
 
  # Slack
 
-If you're stuck somewhere or are running into issues with any of the projects under the DBoM umbrella or have an interesting use case that you want to discuss, feel free to reach out to the community on [our slack channel]()
+If you're stuck somewhere or are running into issues with any of the projects under the DBoM umbrella or have an interesting use case that you want to discuss, feel free to reach out to the community on [our slack channel](https://join.slack.com/t/dbom-project/shared_invite/zt-j34sjqec-wS27UaKzyK0IXsq5Y7hWMw)
 
 
 
